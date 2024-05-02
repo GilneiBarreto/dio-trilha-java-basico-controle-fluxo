@@ -1,18 +1,25 @@
-## Getting Started
+# Desafio de projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Criando Um Pequeno Sistema Para Validação de Processo Seletivo
 
-## Folder Structure
+# Sobre o projeto
+O desafio consiste na criação de um sistema contador.
 
-The workspace contains two folders by default, where:
+## Tecnologias utilizadas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Como executar o projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O projeto foi desenvolvido utilizando o Java 21. Para que o código funcione em sua máquina, é necessário que você tenha o [Java](https://www.azul.com/downloads/#zulu "Site da Azul"), o [Git](https://git-scm.com/ "Site do git"), e um editor de código como o [VSCode](https://code.visualstudio.com/ "Site do VSCode").
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Comece clonando o repositório.
+```bash
+# clonar repositório
+git clone https://github.com/GilneiBarreto/dio-trilha-java-basico-controle-fluxo.git
 
-## Dependency Management
+# entar na pasta
+cd dio-trilha-java-basico-controle-fluxo
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# abra o prjeto no VSCode
+code .
+```
